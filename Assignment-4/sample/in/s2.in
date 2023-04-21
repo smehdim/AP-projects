@@ -1,0 +1,12 @@
+add_station tehran 3
+add_station shiraz 5
+add_train tehran shiraz 4 2
+add_passenger 1 tehran shiraz
+show_passenger_info 1
+show_train_info 1
+advance_time 1
+show_passenger_info 1
+show_train_info 1
+advance_time 5
+show_passenger_info 1
+show_train_info 1

@@ -1,0 +1,32 @@
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+status : in station
+spent : 42
+current station karaj
+status : on train
+spent : 24
+current train 2
+OK
+status : on train
+spent : 42
+current train 1
+status : resting
+estimated remaining time : 1
+next station : tehran
+passengers count : 1
+status : on train
+spent : 24
+current train 2
+OK
+status : arrived
+spent : 42
+current station tehran
+status : arrived
+spent : 60
+current station tehran

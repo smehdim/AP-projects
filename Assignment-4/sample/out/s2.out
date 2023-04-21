@@ -1,0 +1,27 @@
+OK
+OK
+OK
+OK
+status : in station
+spent : 0
+current station tehran
+status : resting
+estimated remaining time : 2
+next station : shiraz
+passengers count : 0
+OK
+status : on train
+spent : 0
+current train 1
+status : resting
+estimated remaining time : 1
+next station : shiraz
+passengers count : 1
+OK
+status : arrived
+spent : 0
+current station shiraz
+status : resting
+estimated remaining time : 2
+next station : tehran
+passengers count : 0

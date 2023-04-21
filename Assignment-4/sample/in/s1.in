@@ -1,0 +1,8 @@
+add_station karaj 4
+add_station zanjan 3
+add_train zanjan karaj 6 3
+add_passenger 2 karaj zanjan
+advance_time 1
+show_passenger_info 1
+finish
+show_passenger_info 1

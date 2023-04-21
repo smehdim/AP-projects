@@ -1,0 +1,17 @@
+add_station tehran 3
+add_station karaj 2
+add_station shiraz 2
+add_train tehran karaj 5 2
+add_train karaj shiraz 3 3
+add_passenger 3 karaj tehran
+add_passenger 2 shiraz karaj tehran
+advance_time 7
+show_passenger_info 1
+show_passenger_info 2
+advance_time 1
+show_passenger_info 1
+show_train_info 1
+show_passenger_info 2
+finish
+show_passenger_info 1
+show_passenger_info 2
