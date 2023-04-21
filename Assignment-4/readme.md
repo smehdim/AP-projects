@@ -63,4 +63,4 @@ There is also a special command for trains:
 
 This command shows if the train is moving or resting and how much time is remaining in either state. It also shows the next station and the number of passengers on the train.
 
-In this project, we assume that inputs are valid and there is no need for exception handling.
+In this project, we assume that inputs are valid and there is no need for exception handling.there is a folder containing samples of valid inputs and their corresponding outputs.
